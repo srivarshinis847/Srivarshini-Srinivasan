@@ -28,7 +28,7 @@ Personal GitHub profile showcasing my skills, projects, and learning journey
 ## 📂 Projects
 - 📘 Completed certification course 4(Google AI essential, Cybersecurity,Data science and            Robotics)
 - 🧮 learnt to develop "SPOTIFY WEB CLONE" In Qt meta language
-- 🤖 Seminar in physics and electronics(Research)
+- 🤖 Seminar in physics and electronics - (Research)
 
 *(More projects coming soon!)*
 
@@ -37,7 +37,8 @@ Personal GitHub profile showcasing my skills, projects, and learning journey
 ## 🌱 Goals
 - Improve coding skills  
 - Build mini projects  
-- Learn AI & Machine Learning  
+- Learn AI & Machine Learning
+- Interested in Research
 
 ---
 
